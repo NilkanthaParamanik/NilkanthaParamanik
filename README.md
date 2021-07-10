@@ -22,6 +22,12 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
+<p align="center">
+    <a href="https://github.com/NilkanthaParamanik/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NilkanthaParamanik" src="https://github-readme-streak-stats.herokuapp.com/?user=NilkanthaParamanik&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nilkantha_cool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nilkantha_cool" height="30" width="40" /></a>
